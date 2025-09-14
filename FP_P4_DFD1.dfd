@@ -1,0 +1,135 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+82
+'Te haré un par de preguntas, por 0 para decir que no, y pon 1 para decir que sí.'
+4
+1
+32
+'Ingresa la edad de la persona.'
+5
+1
+4
+edad
+4
+1
+27
+'¿La persona tiene empleo?'
+5
+1
+6
+chamba
+4
+1
+44
+'¿La persona tiene un título universitario?'
+5
+1
+6
+titulo
+4
+1
+30
+'¿La persona está estudiando?'
+5
+1
+7
+estudio
+7
+0
+1
+9
+edad > 20
+7
+0
+1
+10
+chamba = 1
+7
+0
+1
+11
+estudio = 1
+4
+1
+20
+'Joven desempleado.'
+13
+4
+1
+19
+'Joven estudiante.'
+13
+13
+7
+0
+1
+10
+titulo = 1
+7
+0
+1
+11
+estudio = 1
+4
+1
+17
+'Joven empleado.'
+13
+4
+1
+30
+'Joven estudiante y empleado.'
+13
+13
+4
+1
+33
+'Joven titulado y profesionista.'
+13
+13
+13
+7
+0
+1
+10
+chamba = 1
+4
+1
+21
+'Adulto desempleado.'
+13
+7
+0
+1
+10
+titulo = 1
+4
+1
+37
+'Adulto con empleo no profesionista.'
+13
+7
+0
+1
+11
+estudio = 1
+4
+1
+23
+'Adulto profesionista.'
+13
+4
+1
+45
+'Adulto profesionista y estudiando para más.'
+13
+13
+13
+13
+1

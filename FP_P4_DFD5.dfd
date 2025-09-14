@@ -1,0 +1,54 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+82
+'Ingresa cualquier número para sumarlo, teclea 0 cuando quieras ver el resultado.'
+5
+1
+1
+a
+6
+2
+4
+suma
+1
+0
+4
+prom
+1
+0
+9
+1
+6
+a != 0
+6
+2
+4
+suma
+8
+suma + a
+4
+prom
+8
+prom + 1
+6
+1
+5
+total
+9
+suma/prom
+5
+1
+1
+a
+11
+4
+1
+55
+'La suma total es: ', suma, 'Y el promedio es: ', total
+1

@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+24
+'Dame el primer factor.'
+5
+1
+1
+a
+6
+2
+4
+prod
+1
+0
+4
+suma
+1
+0
+4
+1
+39
+'Dame el segundo factor a multiplicar.'
+5
+1
+1
+b
+8
+1
+4
+prod
+1
+1
+1
+1
+1
+b
+1
+1
+1
+6
+1
+4
+suma
+8
+suma + a
+10
+4
+1
+24
+'El producto es: ', suma
+1
